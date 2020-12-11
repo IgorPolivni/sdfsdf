@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ad/3510gw4JtLrK4oKCSWlQsb8z4OG2ua6ALN/zlNwjk9nhSzXtd5un35XIWQQHfkz6IWYhSAwBcnXHUCFaSXQ==",
+  "success": true,
+  "projectFilePath": "E:\\ШАГ\\Microsoft .NET и язык программирования C#\\Работа на занятии\\5\\ControlWork-master\\ControlWork\\ControlWork.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\World_Mozg\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\World_Mozg\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
